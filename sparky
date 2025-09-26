@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-success">
+        <a class="navbar-brand" href="#"><img src="https://www.chickingsa.co.za/wp-content/uploads/2022/04/Chicking-logo1-1024x1024.png" class="logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse container" id="navbarNav">
+
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#" id="nav-item1">Why choose us? <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="nav-item2">Explore Menu</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="nav-item3">Pricing & Delivery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="nav-item4">Follow Us</a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+    <div class="section-background">
+        <h1 class="section-heading">LET'S EAT!</h1>
+    </div>
+    <div class="wcu-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="wcu-section-heading">
+                        Why Choose Us?
+                    </h1>
+                    <p class="wcu-section-descripption">
+                        We use both original recipies and classic<br>versions of famous food items.
+                    </p>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="wcu-section-card pt-5 pb-5">
+                        <div class="text-center">
+                            <img src="https://as2.ftcdn.net/v2/jpg/03/34/13/27/1000_F_334132786_l5x8z2nsqWC9f1mVb0SKOQbjOJOBfERG.jpg" class="wcu-card-image">
+                            <h1 class="wcu-card-title mt-3">Food Service</h1>
+                            <p class="wcu-card-description mt-3">We us only organic incrediants and traditional method<br>for food preperation</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="wcu-section-card pt-5 pb-5">
+                        <div class="text-center">
+                            <img src="https://www.pngitem.com/pimgs/m/57-576531_restaurant-symbol-png-transparent-png.png" class="wcu-card-image">
+                            <h1 class="wcu-card-title mt-3">Dinning</h1>
+                            <p class="wcu-card-description mt-3">Guest is god .we serve the best for you</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="wcu-section-card pt-5 pb-5">
+                        <div class="text-center">
+                            <img src="https://static.vecteezy.com/system/resources/previews/007/221/879/original/chef-illustration-on-a-background-premium-quality-symbols-icons-for-concept-and-graphic-design-vector.jpg" class="wcu-card-image">
+                            <h1 class="wcu-card-title mt-3">Chef</h1>
+                            <p class="wcu-card-description mt-3">We have the best chef's in the whole city so let's make the moment memorable</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="explore-menu-section pt-5 pb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="menu-section-heading">
+                        Explore Menu
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://wallpapers.com/images/hd/traditional-thali-platter-indian-food-7ppdmw8bs4n1f36j.jpg" class="menu-section-image">
+                        <h1>Indian dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://o.quizlet.com/TLcGNAT3wgIcgpYpMD0wZA_b.jpg" class="menu-section-image">
+                        <h1>Arabic dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://d2zkwdgks3jmb3.cloudfront.net/fileadmin/shared/categories/food/Food_category_text.jpg" class="menu-section-image">
+                        <h1>Americann dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://www.thespruceeats.com/thmb/X6mg_2VBCQQ2X8VrLcPTf8_4ce0=/2733x2050/smart/filters:no_upscale()/chinese-take-out-472927590-57d31fff3df78c5833464e7b.jpg" class="menu-section-image">
+                        <h1>chineese dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://uglyzcafeandbar.co.nz/assets/Uploads/2024-03/nepali-food_7974.jpeg" class="menu-section-image">
+                        <h1>continental dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://wallpapercave.com/wp/wp7845906.jpg" class="menu-section-image">
+                        <h1>south indian dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://blog.topdeck.travel/wp-content/uploads/2017/04/currywurst-1024x712.jpg" class="menu-section-image">
+                        <h1>European dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 p-3 col-lg-3 col-md-6">
+                    <div class="shadow">
+                        <img src="https://in-sight.symrise.com/fileadmin/_processed_/4/d/csm_africanfoods_3bd303f9cd.jpg" class="menu-section-image">
+                        <h1>African dishes</h1>
+                        <a href="" class="menu-section-nonveg">View more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
